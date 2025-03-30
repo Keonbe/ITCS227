@@ -44,14 +44,14 @@ Guide:
 |----|-----------------------------------------|------------------------------------|----------|
 | 2.2 | **[LA]** Final Activity 1                      | Module 4 - Introduction to Databse Application  |  n/a        |
 | 2.1 | **[LC]** Database Structure                    | Module 4 - Introduction to Databse Application  |  n/a        |
-| 1.8 | **[LA]** Midterm Summative Exam                | Midterm Summative       |  n/a         |
-| 1.7 | **[LC]** Class Participation 2                 | Module 3 - Introduction to Master Page       |  n/a         |
-| 1.6 | **[LA]** Activity 4 - Implementing Master Page | Module 3 - Introduction to Master Page          |  n/a          |
-| 1.5 | **[LA]** Activity 3 - OOP with Arraylist       | Module 2 - Implementing OOP in Web Application  |  n/a       |
-| 1.4 | **[LC]** Enabling Assessment 1                 | Module 2 - Implementing OOP in Web Application  |  n/a  |
-| 1.3 | **[LA]** Activity 2 - Using OOP                | Module 2 - Implementing OOP in Web Application  |  n/a  |
-| 1.2 | **[LC]** Class Participation 1                 | Module 1 - ASP.NET | n/a      |
-| 1.1 | **[LA]** Activity 1 - Using Session            | Module 1 - ASP.NET | n/a      |
+| 1.8 | **[LA]** Midterm Summative Exam                | Midterm Summative       |  MidtermExam [1.8]         |
+| 1.7 | **[LC]** Class Participation 2                 | Module 3 - Introduction to Master Page  |  MD-Lec_ClassParticipation2 [1.8]         |
+| 1.6 | **[LA]** Activity 4 - Implementing Master Page | Module 3 - Introduction to Master Page  |  MD-4 Implementing Master Page [1.1]          |
+| 1.5 | **[LA]** Activity 3 - OOP with Arraylist       | Module 2 - Implementing OOP in Web Application  |  MD-3 OOP with Arraylist [1.5]       |
+| 1.4 | **[LC]** Enabling Assessment 1                 | Module 2 - Implementing OOP in Web Application  |  MD-Lec_EnablingAssessment1 [1.4]  |
+| 1.3 | **[LA]** Activity 2 - Using OOP                | Module 2 - Implementing OOP in Web Application  |  MD-2 Using OOP [1.1]  |
+| 1.2 | **[LC]** Class Participation 1                 | Module 1 - ASP.NET | MD-Lec_ClassParticipation1 [1.2]      |
+| 1.1 | **[LA]** Activity 1 - Using Session            | Module 1 - ASP.NET | MD-1 Using Session [1.1]      |
 
 ---
 
