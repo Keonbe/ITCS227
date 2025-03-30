@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="CPLec_RecordsArrayList.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="\assets\cash\cash\images\style.css" rel="stylesheet" />
+	<!--<link rel="stylesheet" href="images/style.css" type="text/css" /> -->
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+<!-- Start CSS -->
+            <div id="page" align="center">
+	<div id="toppage" align="center">
+		<div id="date">
+			<div class="smalltext" style="padding:13px;"><strong>March 09, 2025</strong></div>
+		</div>
+		<div id="topbar">
+			<div align="right" style="padding:12px;" class="smallwhitetext"><a href="#">Home</a> | <a href="#">Sitemap</a> | <a href="#">Contact Us</a></div>
+		</div>
+	</div>
+	<div id="header" align="center">
+		<div class="titletext" id="logo">
+			<div class="logotext" style="margin:30px">Ca<span class="orangelogotext">$</span>h</div> 
+		</div>
+		<div id="pagetitle">
+			<div id="title" class="titletext" align="right">Welcome to Cash!</div>
+		</div>
+	</div>
+	<div id="content" align="center">
+		<div id="menu" align="right">
+			<div id="linksmenu" align="center">
+				<a href="#" title="Home">Home</a>
+				<a href="Regisration.aspx" title="Regisration">Regisration</a>
+				<a href="Login.aspx" title="Log In">Log In</a>
+				<a href="Admin-ViewAllRecords.aspx" title="View All Records">View All Records</a>
+				<a href="Admin-SearchAllRecords.aspx" title="Search Records">Search Records</a>
+			</div>
+        </div>
+        <div id="contenttext">
+            <div class="bodytext" style="padding: 12px;" align="justify">
+                <strong>Hi! This is my second design for OSWD, with CSS and XHTML 1.0 Transitional Validation. You can do whatever you want with this template, just keep the Hosting Colombia link	at the bottom. Enjoy!			  </strong>
+                <br />
+                <br />
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+		
+	</div>
+	<div id="footer" class="smallgraytext" align="center">
+	<!--	<a href="#">Home</a> | <a href="#">About Us</a> | <a href="#">Products</a> | <a href="#">Our Services</a> | <a href="#">Contact Us</a><br /> -->
+		DLSUD - CICS - BIT &copy; 2025<br />
+		<a href="http://www.winkhosting.com" title="Hosting Colombia">Hosting Colombia</a><br />
+	</div>
+</div>
+<!-- End CSS -->
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\2 - using oop [1.3]\\bembo_c2\\regisrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|solutionrelative:bembo_c2\\regisrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEFC34B-4E57-4AC5-8062-A8C80D52A96B}|Bembo_C1\\UsingOOP_C1.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\2 - using oop [1.3]\\bembo_c1\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9AEFC34B-4E57-4AC5-8062-A8C80D52A96B}|Bembo_C1\\UsingOOP_C1.csproj|solutionrelative:bembo_c1\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\2 - using oop [1.3]\\bembo_c2\\regisrationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|solutionrelative:bembo_c2\\regisrationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\bembo_c2\\regisrationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|solutionrelative:bembo_c2\\regisrationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\2 - using oop [1.3]\\bembo_c2\\transactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\UsingOOP_C2.csproj|solutionrelative:bembo_c2\\transactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\bembo_c2\\transactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|solutionrelative:bembo_c2\\transactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DD3E8-B2EE-41E6-BFC4-FB215C8EBA80}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\classlibrary\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DD3E8-B2EE-41E6-BFC4-FB215C8EBA80}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DD3E8-B2EE-41E6-BFC4-FB215C8EBA80}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\classlibrary\\computationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DD3E8-B2EE-41E6-BFC4-FB215C8EBA80}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\computationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEFC34B-4E57-4AC5-8062-A8C80D52A96B}|Bembo_C1\\UsingOOP_C1.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\bembo_c1\\mylogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9AEFC34B-4E57-4AC5-8062-A8C80D52A96B}|Bembo_C1\\UsingOOP_C1.csproj|solutionrelative:bembo_c1\\mylogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\bembo_c2\\transactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B077ABD-4627-464B-98F3-CFDC9BD69928}|Bembo_C2\\Bembo_C2.csproj|solutionrelative:bembo_c2\\transactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisrationPage.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx",
+              "RelativeDocumentMoniker": "Bembo_C2\\RegisrationPage.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx",
+              "RelativeToolTip": "Bembo_C2\\RegisrationPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-01T09:39:34.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Regisration.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C1\\Regisration.aspx",
+              "RelativeDocumentMoniker": "Bembo_C1\\Regisration.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C1\\Regisration.aspx",
+              "RelativeToolTip": "Bembo_C1\\Regisration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T11:28:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionPage.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx",
+              "RelativeDocumentMoniker": "Bembo_C2\\TransactionPage.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx",
+              "RelativeToolTip": "Bembo_C2\\TransactionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T11:27:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisrationPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx.cs",
+              "RelativeDocumentMoniker": "Bembo_C2\\RegisrationPage.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx.cs",
+              "RelativeToolTip": "Bembo_C2\\RegisrationPage.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:27:51.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C1\\MyLogin.aspx",
+              "RelativeDocumentMoniker": "Bembo_C1\\MyLogin.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C1\\MyLogin.aspx",
+              "RelativeToolTip": "Bembo_C1\\MyLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T09:20:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx.cs",
+              "RelativeDocumentMoniker": "Bembo_C2\\TransactionPage.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx.cs",
+              "RelativeToolTip": "Bembo_C2\\TransactionPage.aspx.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:24:06.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComputationClass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\ClassLibrary\\ComputationClass.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ComputationClass.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\ClassLibrary\\ComputationClass.cs",
+              "RelativeToolTip": "ClassLibrary\\ComputationClass.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:03:35.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionPage.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx",
+              "RelativeDocumentMoniker": "Bembo_C2\\TransactionPage.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\TransactionPage.aspx",
+              "RelativeToolTip": "Bembo_C2\\TransactionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-30T14:19:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisrationPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx.cs",
+              "RelativeDocumentMoniker": "Bembo_C2\\RegisrationPage.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\Bembo_C2\\RegisrationPage.aspx.cs",
+              "RelativeToolTip": "Bembo_C2\\RegisrationPage.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\ClassLibrary\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\2 - Using OOP [1.3]\\ClassLibrary\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "ClassLibrary\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:06:08.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

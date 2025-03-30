@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="MIDTERM_Bembo.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="assets\cash\cash\images\style.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {
+            font-size: 36px;
+            font-weight: bold;
+            color: #999999;
+            font-style: normal;
+            font-variant: normal;
+            line-height: normal;
+            font-family: Tahoma, sans-serif;
+            width: 142px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+                <body>
+	<div id="page" align="center">
+		<div id="toppage" align="center">
+			<div id="date">
+				<div class="smalltext" style="padding:13px;"><strong>April 21, 2007</strong></div>
+			</div>
+			<div id="topbar">
+				<div align="right" style="padding:12px;" class="smallwhitetext"><a href="#">Home</a> | <a href="#">Sitemap</a> | <a href="#">Contact Us</a></div>
+			</div>
+		</div>
+		<div id="header" align="center">
+			<div class="titletext" id="logo">
+				<div class="auto-style1" style="margin:30px">DLSU-<span class="orangelogotext">D</span></div> 
+			</div>
+			<div id="pagetitle">
+				<div id="title" class="titletext" align="right">Student Regisration</div>
+			</div>
+		</div>
+		<div id="content" align="center">
+			<div id="menu" align="right">
+				<div id="linksmenu" align="center">
+					<a href="Default.aspx" title="Home">Home</a>
+					<a href="Regisration.aspx" title="Regisration">Regisration</a>
+					<a href="ViewRecords.aspx" title="View Records">View Records</a>
+					<a href="Login.aspx" title="Log In">Log In</a>
+				</div>
+			</div>
+		<div id="contenttext">
+			<div class="bodytext" style="padding:12px;" align="justify">
+				Welcome to MyPage<br />
+				<br />
+				<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+			</div>
+
+		</div>
+	
+	</div>
+</body>
+            </asp:ContentPlaceHolder>
+                
+        </div>
+    </form>
+</body>
+</html>

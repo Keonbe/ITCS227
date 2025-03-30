@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMasterPage.master.cs" Inherits="_4___Implementing_Master_Page.MainMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+    <link href="assets/redtie(2)/redtie/images/style.css" rel="stylesheet" />
+	<!--DONT USE THIS: Web browsers generally do not allow loading local files using 'file:///' in a hosted web app. So you should use a relative path or a full URL path.
+		<link href="file:///c:\users\admin\documents\c#\appdev\4%20-%20implementing%20master%20page\4%20-%20implementing%20master%20page\assets\redtie(2)\redtie\images\style.css" rel="stylesheet" />-->
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+			<div id="page" align="center">
+		<div id="content" style="width:800px">
+			<div id="logo">
+				<div style="margin-top:70px" class="whitetitle">RedTie</div>
+			</div>
+			<div id="topheader">
+				<div align="left" class="bodytext">
+					<br />
+					Keanu Oneal Bembo<br />
+                    BIT23<br />
+                    Activity 4 - ArrayList, OOP, Master Page<br />
+					<br />
+                </div>
+				<div id="toplinks" class="smallgraytext">
+					<a href="Default.aspx">Home</a> |<a href="ViewRecords.aspx">View Records</a>
+				</div>
+			</div>
+			<div id="menu">
+				<div align="right" class="smallwhitetext" style="padding:9px;">
+					<a href="Default.aspx">Home</a> | <a href="Regisration.aspx">Regisration</a> | <a href="LoginPage.aspx">Login Page</a> | <a href="LoanCalculator.aspx">Loan Calculator</a> | <a href="ViewRecords.aspx">View Records</a>
+				</div>
+			</div>
+			<!--<div id="submenu">
+				<div align="right" class="smallgraytext" style="padding:9px;">
+					<a href="#">Submenu 1</a> | <a href="#">Submenu 2</a> | <a href="#">Submenu 3</a> | <a href="#">Submenu 4</a> | <a href="#">Submenu 5</a> | <a href="#">Submenu 6</a>
+				</div>
+			</div> -->
+            <div id="contenttext">
+                <div style="padding: 10px">
+                    <span class="titletext">Loan Calculator System</span>
+                </div>
+                <div class="bodytext" style="padding: 12px;" align="justify">
+                    <!--<strong>Hi! This is my third design for OSWD, with CSS and XHTML 1.0 Transitional Validation. You can do whatever you want with this template, just keep the Hosting Colombia link	at the bottom. Enjoy!			  </strong> -->
+                    <br />
+                    <br />
+                    <asp:ContentPlaceHolder ID="head" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+			<div id="leftpanel">
+				<div align="justify" class="graypanel">
+					<span class="smalltitle">News</span><br /><br />
+					<span class="smallredtext">September 27, 2006</span><br />
+					<span class="bodytext">Curabitur arcu tellus, suscipit in, aliquam eget, ultricies id, sapien. Nam est.</span><br />
+					<a href="#" class="smallgraytext">More...</a><br /><br />
+					<span class="smallredtext">September 27, 2006</span><br />
+					<span class="bodytext">Curabitur arcu tellus, suscipit in, aliquam eget, ultricies id, sapien. Nam est.</span><br />
+					<a href="#" class="smallgraytext">More...</a><br /><br />
+					<span class="smallredtext">September 27, 2006</span><br />
+					<span class="bodytext">Curabitur arcu tellus, suscipit in, aliquam eget, ultricies id, sapien. Nam est.</span><br />
+					<a href="#" class="smallgraytext">More...</a><br /><br />
+				</div>
+			</div>
+			<div id="footer" class="smallgraytext">
+				&nbsp;AppDev
+				&copy; 2025 | <a href="http://www.winkhosting.com" target="_blank">De La Salle University Dasmarinas</a> 
+			</div>
+		</div>
+	</div>
+
+    </form>
+</body>
+</html>

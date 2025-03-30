@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB9FC9-1539-4F9F-97D7-C04D0F3F32F5}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\documents\\c#\\appdev_lec\\cplec-recordsarraylist\\classlibrary\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBB9FC9-1539-4F9F-97D7-C04D0F3F32F5}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\admin-viewallrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\admin-viewallrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\admin-searchallrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\admin-searchallrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\cplec-recordsarraylist\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E8873F-B1E6-4752-A37C-E53A49CFAD9F}|CPLec-RecordsArrayList\\CPLec-RecordsArrayList.csproj|solutionrelative:cplec-recordsarraylist\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dataClass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\ClassLibrary\\dataClass.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\dataClass.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\ClassLibrary\\dataClass.cs",
+              "RelativeToolTip": "ClassLibrary\\dataClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:33:45.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Default.aspx",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\Default.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Default.aspx",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T12:24:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiteMaster.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\SiteMaster.Master",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\SiteMaster.Master",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\SiteMaster.Master",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\SiteMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T12:23:51.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin-SearchAllRecords.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Admin-SearchAllRecords.aspx.cs",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\Admin-SearchAllRecords.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Admin-SearchAllRecords.aspx.cs",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\Admin-SearchAllRecords.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin-ViewAllRecords.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Admin-ViewAllRecords.aspx.cs",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\Admin-ViewAllRecords.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Admin-ViewAllRecords.aspx.cs",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\Admin-ViewAllRecords.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Login.aspx.cs",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:34.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Regisration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Regisration.aspx.cs",
+              "RelativeDocumentMoniker": "CPLec-RecordsArrayList\\Regisration.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev_lec\\CPLec-RecordsArrayList\\CPLec-RecordsArrayList\\Regisration.aspx.cs",
+              "RelativeToolTip": "CPLec-RecordsArrayList\\Regisration.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:19.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

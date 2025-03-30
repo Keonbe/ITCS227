@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERMExam.csproj|c:\\users\\admin\\documents\\c#\\appdev\\midterm\\midtermexam [1.8]\\midterm_bembo\\viewrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERMExam.csproj|solutionrelative:midterm_bembo\\viewrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERMExam.csproj|c:\\users\\admin\\documents\\c#\\appdev\\midterm\\midtermexam [1.8]\\midterm_bembo\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERMExam.csproj|solutionrelative:midterm_bembo\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\midterm_bembo\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|solutionrelative:midterm_bembo\\sitemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FAF97-851A-4828-8E1D-9E9449432535}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\classlibrary\\classmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FAF97-851A-4828-8E1D-9E9449432535}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\midterm_bembo\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|solutionrelative:midterm_bembo\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\midterm_bembo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|solutionrelative:midterm_bembo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\midterm_bembo\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|solutionrelative:midterm_bembo\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\midterm_bembo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23A38EAD-DC73-4D0D-AECA-1E4C8D484BF3}|MIDTERM_Bembo\\MIDTERM_Bembo.csproj|solutionrelative:midterm_bembo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassMethod.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\ClassLibrary\\ClassMethod.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassMethod.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\ClassLibrary\\ClassMethod.cs",
+              "RelativeToolTip": "ClassLibrary\\ClassMethod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:18:30.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiteMaster.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\SiteMaster.Master",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\SiteMaster.Master",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\SiteMaster.Master",
+              "RelativeToolTip": "MIDTERM_Bembo\\SiteMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T11:24:30.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiteMaster.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\SiteMaster.Master",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\SiteMaster.Master",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\SiteMaster.Master",
+              "RelativeToolTip": "MIDTERM_Bembo\\SiteMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T13:38:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewRecords.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\ViewRecords.aspx.cs",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\ViewRecords.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\ViewRecords.aspx.cs",
+              "RelativeToolTip": "MIDTERM_Bembo\\ViewRecords.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:23:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Login.aspx.cs",
+              "RelativeToolTip": "MIDTERM_Bembo\\Login.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:04:27.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regisration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Regisration.aspx.cs",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\Regisration.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Regisration.aspx.cs",
+              "RelativeToolTip": "MIDTERM_Bembo\\Regisration.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:20:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Regisration.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Regisration.aspx",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\Regisration.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Regisration.aspx",
+              "RelativeToolTip": "MIDTERM_Bembo\\Regisration.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T12:52:08.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Login.aspx",
+              "RelativeDocumentMoniker": "MIDTERM_Bembo\\Login.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\appdev\\MIDTERM\\MidtermExam [1.8]\\MIDTERM_Bembo\\Login.aspx",
+              "RelativeToolTip": "MIDTERM_Bembo\\Login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T12:51:52.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

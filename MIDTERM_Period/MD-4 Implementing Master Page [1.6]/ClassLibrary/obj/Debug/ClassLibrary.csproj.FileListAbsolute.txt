@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\admin\Documents\c#\appdev\4 - Implementing Master Page\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\admin\Documents\c#\ITCS227\MIDTERM_Period\4 - Implementing Master Page [1.6]\ClassLibrary\obj\Debug\ClassLibrary.pdb

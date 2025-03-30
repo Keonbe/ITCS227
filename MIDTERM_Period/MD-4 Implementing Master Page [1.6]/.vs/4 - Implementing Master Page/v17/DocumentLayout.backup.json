@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\4 - implementing master page [1.6]\\4 - implementing master page\\viewrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\viewrecords.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\mainmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\mainmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C9C1F-E761-4AFC-9A07-A1B3E2631188}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\classlibrary\\getinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C9C1F-E761-4AFC-9A07-A1B3E2631188}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\getinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\loancalculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\loancalculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\regisration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\regisration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1C9C1F-E761-4AFC-9A07-A1B3E2631188}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\classlibrary\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1C9C1F-E761-4AFC-9A07-A1B3E2631188}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - implementing master page\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD316ED-82B2-4FBB-8D1D-6DAFDF045677}|4 - Implementing Master Page\\4 - Implementing Master Page.csproj|solutionrelative:4 - implementing master page\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\MainMasterPage.Master",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\MainMasterPage.Master",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\MainMasterPage.Master",
+              "RelativeToolTip": "4 - Implementing Master Page\\MainMasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T06:40:28.014Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Default.aspx.cs",
+              "RelativeToolTip": "4 - Implementing Master Page\\Default.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:53:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewRecords.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\ViewRecords.aspx.cs",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\ViewRecords.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\ViewRecords.aspx.cs",
+              "RelativeToolTip": "4 - Implementing Master Page\\ViewRecords.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:25:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanCalculator.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\LoanCalculator.aspx.cs",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\LoanCalculator.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\LoanCalculator.aspx.cs",
+              "RelativeToolTip": "4 - Implementing Master Page\\LoanCalculator.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:21:48.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\ClassLibrary\\Methods.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Methods.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\ClassLibrary\\Methods.cs",
+              "RelativeToolTip": "ClassLibrary\\Methods.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:47:29.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\ClassLibrary\\GetInfo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\GetInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\ClassLibrary\\GetInfo.cs",
+              "RelativeToolTip": "ClassLibrary\\GetInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:46:07.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\LoginPage.aspx.cs",
+              "RelativeToolTip": "4 - Implementing Master Page\\LoginPage.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:38:31.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regisration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Regisration.aspx.cs",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\Regisration.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Regisration.aspx.cs",
+              "RelativeToolTip": "4 - Implementing Master Page\\Regisration.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:38:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Regisration.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Regisration.aspx",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\Regisration.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Regisration.aspx",
+              "RelativeToolTip": "4 - Implementing Master Page\\Regisration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T08:11:30.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Default.aspx",
+              "RelativeDocumentMoniker": "4 - Implementing Master Page\\Default.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\4 - Implementing Master Page [1.6]\\4 - Implementing Master Page\\Default.aspx",
+              "RelativeToolTip": "4 - Implementing Master Page\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T06:59:21.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

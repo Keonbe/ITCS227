@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29709DCD-8509-4A80-B945-E7263C849248}|ClassLibrary\\ClassLibrary.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29709DCD-8509-4A80-B945-E7263C849248}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}|2 - Implementing OOP in Web Application\\2 - Implementing OOP in Web Application.csproj|c:\\users\\admin\\documents\\c#\\itcs227\\midterm_period\\lec_enablingassessment1 [1.4]\\2 - implementing oop in web application\\converttobinary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}|2 - Implementing OOP in Web Application\\2 - Implementing OOP in Web Application.csproj|solutionrelative:2 - implementing oop in web application\\converttobinary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}|2 - Implementing OOP in Web Application\\2 - Implementing OOP in Web Application.csproj|C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\2 - implementing oop in web application\\converttobinary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}|2 - Implementing OOP in Web Application\\2 - Implementing OOP in Web Application.csproj|solutionrelative:2 - implementing oop in web application\\converttobinary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:31:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertToBinary.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\2 - Implementing OOP in Web Application\\ConvertToBinary.aspx.cs",
+              "RelativeDocumentMoniker": "2 - Implementing OOP in Web Application\\ConvertToBinary.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\2 - Implementing OOP in Web Application\\ConvertToBinary.aspx.cs",
+              "RelativeToolTip": "2 - Implementing OOP in Web Application\\ConvertToBinary.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:31:04.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertToBinary.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\2 - Implementing OOP in Web Application\\ConvertToBinary.aspx",
+              "RelativeDocumentMoniker": "2 - Implementing OOP in Web Application\\ConvertToBinary.aspx",
+              "ToolTip": "C:\\Users\\admin\\Documents\\c#\\ITCS227\\MIDTERM_Period\\Lec_EnablingAssessment1 [1.4]\\2 - Implementing OOP in Web Application\\ConvertToBinary.aspx",
+              "RelativeToolTip": "2 - Implementing OOP in Web Application\\ConvertToBinary.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-15T14:30:46.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Implementing OOP in Web Application", "2 - Implementing OOP in Web Application\2 - Implementing OOP in Web Application.csproj", "{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{29709DCD-8509-4A80-B945-E7263C849248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1A5ACB-606C-4C2E-8121-7F06F09C0627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29709DCD-8509-4A80-B945-E7263C849248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29709DCD-8509-4A80-B945-E7263C849248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29709DCD-8509-4A80-B945-E7263C849248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29709DCD-8509-4A80-B945-E7263C849248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C95633-F9AE-4BF1-8680-ADAE583E358D}
+	EndGlobalSection
+EndGlobal
