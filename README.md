@@ -21,9 +21,21 @@ The lab activity/repository covers the following core topics:
 - Design consistent layouts using `MasterPage` and `ContentPlaceHolder`.  
 - Reuse headers/footers across pages.  
 
-### **4. SQL Database Integration**  
+### **4. Introduction to Database(ADO.NET): SQL Database Integration**  
 - CRUD operations with **ADO.NET** (`SqlConnection`, `SqlCommand`).  
-- Bind data to `GridView` and use parameterized queries.  
+- Bind data to `GridView` and use parameterized queries.
+
+## 5. Stored Procedures in Web Applications
+- Understand and write SQL stored procedures for backend logic.
+- Call stored procedures from ASP.NET using `SqlCommand.CommandType = CommandType.StoredProcedure`.
+- Pass parameters to and retrieve results from stored procedures.
+- Improve performance and security by using database-side logic.
+
+## 6. Reporting in Web Applications
+- Generate and display reports using tools like `ReportViewer` in ASP.NET.
+- Connect reports to data sources such as SQL Server.
+- Create report layouts with headers, groupings, and charts.
+- Export reports to formats like PDF or Excel for sharing and printing.
 
 ### **Tech Stack**  
 - 🛠️ **Tools**: Visual Studio, SQL Server  
