@@ -54,8 +54,10 @@ Guide:
 
 | #  | Title                                   | Lesson/Topic                      | Filename |
 |----|-----------------------------------------|------------------------------------|----------|
-| 2.2 | **[LA]** Final Activity 1                      | Module 4 - Introduction to Databse Application  |  FN-FinalActivity1        |
-| 2.1 | **[LC]** Database Structure                    | Module 4 - Introduction to Databse Application  |  FN-LecClassParticipation1      |
+| 2.2 | **[LC]** Final Activity 1                      | Module 4 - Introduction to Database Application  |  FN-LecFinalActivity1        |
+| 2.2 | **[LA]** Final Activity 2                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity2        |
+| 2.2 | **[LA]** Final Activity 1                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity1        |
+| 2.1 | **[LC]** Database Structure                    | Module 4 - Introduction to Database Application  |  FN-LecClassParticipation1      |
 | 1.8 | **[LA]** Midterm Summative Exam                | Midterm Summative       |  MidtermExam [1.8]         |
 | 1.7 | **[LC]** Class Participation 2                 | Module 3 - Introduction to Master Page  |  MD-Lec_ClassParticipation2 [1.8]         |
 | 1.6 | **[LA]** Activity 4 - Implementing Master Page | Module 3 - Introduction to Master Page  |  MD-4 Implementing Master Page [1.1]          |
