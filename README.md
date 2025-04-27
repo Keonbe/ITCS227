@@ -25,22 +25,26 @@ The lab activity/repository covers the following core topics:
 - CRUD operations with **ADO.NET** (`SqlConnection`, `SqlCommand`).  
 - Bind data to `GridView` and use parameterized queries.
 
-## 5. Stored Procedures in Web Applications
+### 5. Stored Procedures in Web Applications
 - Understand and write SQL stored procedures for backend logic.
 - Call stored procedures from ASP.NET using `SqlCommand.CommandType = CommandType.StoredProcedure`.
 - Pass parameters to and retrieve results from stored procedures.
 - Improve performance and security by using database-side logic.
 
-## 6. Reporting in Web Applications
+### 6. Reporting in Web Applications
 - Generate and display reports using tools like `ReportViewer` in ASP.NET.
 - Connect reports to data sources such as SQL Server.
 - Create report layouts with headers, groupings, and charts.
 - Export reports to formats like PDF or Excel for sharing and printing.
 
-### **Tech Stack**  
-- 🛠️ **Tools**: Visual Studio, SQL Server  
-- 💻 **Languages**: C#, HTML/CSS, SQL  
-- 🎯 **Outcome**: A functional web app with OOP, database, and unified UI. 
+
+## 🛠️ Tech Stack  
+| Category       | Tools/Languages                                               |
+|----------------|---------------------------------------------------------------|
+| **IDE**        | Visual Studio                                                 |
+| **Database**   | SQL Server                                                    |
+| **Languages**  | C#, HTML/CSS, SQL                                             |
+| **Frameworks** | ASP.NET Web Forms, ADO.NET                                    |
 
 ---
 
@@ -68,4 +72,17 @@ Guide:
 | 1.1 | **[LA]** Activity 1 - Using Session            | Module 1 - ASP.NET | MD-1 Using Session [1.1]      |
 
 ---
+
+### **Setup Instructions**  
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/Keonbe/ITCS227
+   ```
+2. **Open in Visual Studio**:  
+   - Launch Visual Studio → *Open Project/Solution* → Select the `.sln` file.  
+
+3. **Run the Project**:  
+   - Press `F5` or click *IIS Express* in Visual Studio to launch.
+---
+
 
