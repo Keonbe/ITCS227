@@ -58,8 +58,9 @@ Guide:
 
 | #  | Title                                   | Lesson/Topic                      | Filename |
 |----|-----------------------------------------|------------------------------------|----------|
-| 2.2 | **[LC]** Final Activity 1                      | Module 4 - Introduction to Database Application  |  FN-LecFinalActivity1        |
-| 2.2 | **[LA]** Final Activity 2                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity2        |
+| 2.5 | **[LC]** Final Activity 3: Case Study                      | Module 5 - Database Application with multiple Table & Uploading and Downloading Files  |  FN-LabFinalActivity3-CaseStudy        |
+| 2.4 | **[LC]** Final Activity 1                      | Module 5 - Database Application with multiple Table & Uploading and Downloading Files  |  FN-LecFinalActivity1        |
+| 2.3 | **[LA]** Final Activity 2                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity2        |
 | 2.2 | **[LA]** Final Activity 1                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity1        |
 | 2.1 | **[LC]** Database Structure                    | Module 4 - Introduction to Database Application  |  FN-LecClassParticipation1      |
 | 1.8 | **[LA]** Midterm Summative Exam                | Midterm Summative       |  MidtermExam [1.8]         |
