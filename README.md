@@ -25,11 +25,15 @@ The lab activity/repository covers the following core topics:
 - CRUD operations with **ADO.NET** (`SqlConnection`, `SqlCommand`).  
 - Bind data to `GridView` and use parameterized queries.
 
-### 5. Stored Procedures in Web Applications
+### 5. Stored Procedures in Web Applications (& Uploading & Downloading Files from Server)
 - Understand and write SQL stored procedures for backend logic.
 - Call stored procedures from ASP.NET using `SqlCommand.CommandType = CommandType.StoredProcedure`.
 - Pass parameters to and retrieve results from stored procedures.
 - Improve performance and security by using database-side logic.
+- Handle user file uploads using the` FileUpload` control.
+- Use methods like `HasFile`, `SaveAs`, and `Server.MapPath` for storing files on the server.
+- Access uploaded files via `PostedFile` and manage metadata such as file name and size.
+- Implement secure and efficient download mechanisms for serving files to users.
 
 ### 6. Reporting in Web Applications
 - Generate and display reports using tools like `ReportViewer` in ASP.NET.
