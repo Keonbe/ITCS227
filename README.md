@@ -62,8 +62,9 @@ Guide:
 
 | #  | Title                                   | Lesson/Topic                      | Filename |
 |----|-----------------------------------------|------------------------------------|----------|
-| 2.5 | **[LA]** Final Exam: Case Study                      | Module 6 - Reporting in Web Applications  |  [FN-LabFinalActivity3-CaseStudy](https://github.com/Keonbe/AppDev-FinalActivity3-CaseStudy)     |
-| 2.5 | **[LC]** Final Activity 3: Case Study                      | Module 5 - Database Application with multiple Table & Uploading and Downloading Files  |  [FN-LabFinalActivity3-CaseStudy](https://github.com/Keonbe/AppDev-FinalActivity3-CaseStudy)          |
+| 2.7 | **[LA]** Final Exam: Case Study                | Module 6 - Reporting in Web Applications  |  [FN-LabFinalActivity3-CaseStudy](https://github.com/Keonbe/AppDev-FinalActivity3-CaseStudy)     |
+| 2.6 | **[LC]** Final Activity 2                      | Module 6 - Reporting in Web Applications  |  FN-LecFinalActivity2     |
+| 2.5 | **[LC]** Final Activity 3: Case Study          | Module 5 - Database Application with multiple Table & Uploading and Downloading Files  |  [FN-LabFinalActivity3-CaseStudy](https://github.com/Keonbe/AppDev-FinalActivity3-CaseStudy)          |
 | 2.4 | **[LC]** Final Activity 1                      | Module 5 - Database Application with multiple Table & Uploading and Downloading Files  |  FN-LecFinalActivity1        |
 | 2.3 | **[LA]** Final Activity 2                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity2        |
 | 2.2 | **[LA]** Final Activity 1                      | Module 4 - Introduction to Database Application  |  FN-LabFinalActivity1        |
