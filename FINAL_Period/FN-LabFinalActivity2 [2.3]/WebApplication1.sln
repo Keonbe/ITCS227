@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToDB", "WebApplication1\IntroToDB.csproj", "{993608C3-DA2D-4F5A-81C1-B71C4E330525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{62606440-936E-43F7-9C2F-6E10FD05E538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993608C3-DA2D-4F5A-81C1-B71C4E330525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993608C3-DA2D-4F5A-81C1-B71C4E330525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993608C3-DA2D-4F5A-81C1-B71C4E330525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993608C3-DA2D-4F5A-81C1-B71C4E330525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62606440-936E-43F7-9C2F-6E10FD05E538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62606440-936E-43F7-9C2F-6E10FD05E538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62606440-936E-43F7-9C2F-6E10FD05E538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62606440-936E-43F7-9C2F-6E10FD05E538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C096D773-2E32-49E8-BBEB-D3A80DB18B55}
+	EndGlobalSection
+EndGlobal
