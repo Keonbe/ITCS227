@@ -1,0 +1,20 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.cache
+*.log
+*.pdb
+*.db
+*.VC.db
+*.vscode/
+
+# Ignore compiled output
+bin/
+obj/
+
+# Ignore temp files
+*.tmp
+*.bak
+*.vsidx
+EOF
